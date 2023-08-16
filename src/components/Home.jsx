@@ -8,6 +8,8 @@ const Home = () => {
 
     <p>hello khalil is not made changes </p>
     <p>hey how are you</p>
+    <p>khlalil</p>
+    <p>khan</p>
     <About/>
     
     </>
