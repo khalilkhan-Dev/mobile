@@ -10,6 +10,7 @@ const Home = () => {
     <p>hey how are you</p>
     <p>khlalil</p>
     <p>khan</p>
+    <p>hello</p>
     <About/>
     
     </>
