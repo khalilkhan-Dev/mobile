@@ -12,6 +12,7 @@ const Home = () => {
     <p>khan</p>
     <p>hello</p>
     <p>hy</p>
+    <p>hh</p>
     <About/>
     
     </>
