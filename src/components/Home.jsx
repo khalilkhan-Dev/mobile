@@ -11,6 +11,7 @@ const Home = () => {
     <p>khlalil</p>
     <p>khan</p>
     <p>hello</p>
+    <p>hy</p>
     <About/>
     
     </>
