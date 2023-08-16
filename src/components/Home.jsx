@@ -7,6 +7,7 @@ const Home = () => {
     <h1>this is homepage of mobile app</h1>
 
     <p>hello khalil is not made changes </p>
+    <p>hey how are you</p>
     <About/>
     
     </>
