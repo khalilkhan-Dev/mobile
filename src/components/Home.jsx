@@ -4,15 +4,6 @@ import About from './About'
 const Home = () => {
   return (
     <>
-    <h1>this is homepage of mobile app</h1>
-
-    <p>hello khalil is not made changes </p>
-    <p>hey how are you</p>
-    <p>khlalil</p>
-    <p>khan</p>
-    <p>hello</p>
-    <p>hy</p>
-    <p>hh</p>
     <About/>
     
     </>
