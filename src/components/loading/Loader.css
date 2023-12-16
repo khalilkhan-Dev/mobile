@@ -1,9 +1,15 @@
 
+/* .loader{
+background-color: aqua;
+align-items: center;
+align-content: center;
+} */
 .loader h3 {  
 
     font-size: 100px;
     text-transform: uppercase;
     text-align: center;
+
     font-family: 'Times New Roman', Times, serif;
 
 
